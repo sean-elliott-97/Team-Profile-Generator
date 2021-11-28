@@ -14,7 +14,7 @@ test("checks that Manager constructor works", () => {
   expect(testEngineer.github).toBe("richard-github");
 });
 
-//testing if methods work
+//testing if engineer methods work
 test("checks that Engineer extended getName() method from Employee", () => {
   expect(testEngineer.getName()).toBe("richard");
 });

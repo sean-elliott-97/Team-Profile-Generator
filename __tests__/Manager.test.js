@@ -9,7 +9,7 @@ test("checks that Manager constructor works", () => {
   expect(testManager.officeNum).toBe(1234567890);
 });
 
-//testing if methods work
+//testing if manager methods work
 test("checks that Manager extended getName() method from Employee", () => {
   expect(testManager.getName()).toBe("dave");
 });

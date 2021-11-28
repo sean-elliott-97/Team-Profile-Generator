@@ -9,7 +9,7 @@ test("checks that Intern constructor works", () => {
   expect(testIntern.school).toBe("stuart school");
 });
 
-//testing if methods work
+//testing if intern methods work
 test("checks that Intern extended getName() method from Employee", () => {
   expect(testIntern.getName()).toBe("stuart");
 });
