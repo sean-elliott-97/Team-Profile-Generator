@@ -16,6 +16,7 @@
   * [Test](#test)
   * [Questions](#questions)
   * [Walkthrough](#walkthrough)
+  * [Image](#image)
   
   ## Installation
   ---
@@ -44,3 +45,8 @@
   ## Walkthrough
   ---
   <a href = "https://watch.screencastify.com/v/kpz650TZXaRuzI29jCBI" target = "blank">https://watch.screencastify.com/v/kpz650TZXaRuzI29jCBI</a>.
+
+  ## Image
+  ---
+  <img src = "TeamProfileGeneratorImage.png"></img>
+  
